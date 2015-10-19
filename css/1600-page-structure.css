@@ -1,0 +1,107 @@
+#home {
+float: left;
+}
+
+#header h1 {
+display:none;
+}
+
+#nav {
+float: left;
+}
+
+#nav ul li {
+display:inline-block;
+padding: 0 20px 0 0;
+margin-top: -0.2em;
+margin-bottom: -0.2em;
+}
+
+#summary {
+float: right;
+width: 350px;
+padding:20px 30px 20px 30px ;
+line-height: 1.5em;
+}
+
+#summary h3 {
+display: none;
+}
+
+
+
+#sidebar-1 {
+clear:both;
+float: left;
+width: 300px;
+}
+
+#content {
+float: left;
+padding: 10 30 10 30 ;
+width: 880px;
+
+}
+
+div#blog-news {
+margin: 20 20 20 20;
+padding: 100 100 100 100;
+width: 600px;
+}
+
+div#blog-news td {
+width: 20em;
+vertical-align: top;
+}
+
+article {
+ padding: 0px;
+ border: solid #2CA0E8 0px;
+ border-bottom: solid #2CA0E8 1px;
+}
+
+#sub-menu {
+float:left;
+}
+
+#hobbies {
+clear:both;
+padding: 10px 0 0 0;
+}
+
+#sub-menu a {
+    font-weight: bold;
+    text-align: center;
+    line-height: 28px;
+    color: white;
+    text-shadow: rgba(0,0,0,0.6) 0px -1px 0px;
+    max-width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border-width: 0 8px 0 8px;
+    -webkit-border-image: url(../img/iphone/menu_button.png) 0 8 0 8;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+	text-decoration: none;
+}
+}
+
+#search {
+float:right;
+}
+
+#blog-category {
+float: left;
+width: 270px;
+padding: 10 10 10 10;
+}
+
+#blog-month {
+padding: 10 10 10 10;
+width: 700px;
+}
+
+#archive {
+float: left;
+width: 800px;
+}

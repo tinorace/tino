@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+
+<item>
+<longname>Blackburn Rovers</longname>
+<nocapname>Blackburn Rovers</nocapname>
+<shortname>blackburn</shortname>
+</item>
+
+<item>
+<longname>Brewing &#38; vinting</longname>
+<nocapname>brewing and vinting</nocapname>
+<shortname>brewing</shortname>
+</item>
+
+<item>
+<longname>DIY &#38; Gardening</longname>
+<nocapname>DIY and gardening</nocapname>
+<shortname>diy</shortname>
+</item>
+
+<item>
+<longname>Football</longname>
+<nocapname>football</nocapname>
+<shortname>football</shortname>
+</item>
+
+<item>
+<longname>Oxford United</longname>
+<nocapname>Oxford United</nocapname>
+<shortname>oxford</shortname>
+</item>
+
+<item>
+<longname>Science</longname>
+<nocapname>Science</nocapname>
+<shortname>science</shortname>
+</item>
+
+<item>
+<longname>Social</longname>
+<nocapname>my social life</nocapname>
+<shortname>social</shortname>
+</item>
+
+<item>
+<longname>Teaching</longname>
+<nocapname>teaching</nocapname>
+<shortname>teaching</shortname>
+</item>
+
+<item>
+<longname>Travel</longname>
+<nocapname>my travels</nocapname>
+<shortname>travel</shortname>
+</item>
+
+<item>
+<longname>Web Development</longname>
+<nocapname>web development</nocapname>
+<shortname>web</shortname>
+</item>
+
+
+</channel>
+</rss>

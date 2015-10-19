@@ -1,0 +1,57 @@
+/*Puts logos in top left*/
+#home {
+float: left;
+}
+
+/*Hides iPhone headers*/
+#header h1 {
+display:none;
+}
+#summary h3 {
+display: none;
+}
+
+/*puts nav next to logo*/
+#nav {
+float: left;
+}
+
+/*sets out nav items*/
+#nav ul li {
+display:inline-block;
+padding: 0 10px 0 0;
+margin-top: -0.2em;
+margin-bottom: -0.2em;
+}
+
+/*For the fake back button*/
+#summary h3 {
+display: none;
+}
+
+/*Designs for Projects/Hobbies/etc*/
+#hobbies {
+padding: 10px 0 0 0;
+}
+
+#projects {
+padding: 10px 0 0 0;
+}
+
+/*Buttons*/
+/*Design for the back buttons for area subpages*/
+#sub-menu a {
+    font-weight: bold;
+    text-align: center;
+    line-height: 28px;
+    color: white;
+    text-shadow: rgba(0,0,0,0.6) 0px -1px 0px;
+    max-width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border-width: 0 8px 0 8px;
+    -webkit-border-image: url(../img/iphone/menu_button.png) 0 8 0 8;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+	text-decoration: none;
+}

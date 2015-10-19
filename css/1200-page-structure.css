@@ -1,0 +1,42 @@
+/*Puts about box in top left*/
+#summary {
+float: right;
+width: 320px;
+padding:6px 10px 20px 10px ;
+line-height: 1.5em;
+}
+
+#sidebar-1 {
+clear:both;
+float: left;
+width: 300px;
+}
+
+#content {
+float: left;
+padding: 10 30 10 30 ;
+width: 800px;
+}
+
+/*UNKNOWNS*/
+article {
+ padding: 0px;
+ border: solid #2CA0E8 0px;
+ border-bottom: solid #2CA0E8 1px;
+}
+
+#blog-category {
+float: left;
+width: 380px;
+padding: 10 10 10 10;
+}
+
+#blog-month {
+padding: 10 10 10 10;
+width: 800px;
+}
+
+#archive {
+float: left;
+width: 800px;
+}

@@ -1,0 +1,340 @@
+#home-scorers {
+float:left;
+width: 120px;
+text-align:left;
+}
+
+#away-scorers {
+float:left;
+width: 120px;
+text-align:right;
+}
+
+#score {
+float:left;
+width:160px;
+height:100px;
+line-height:100px;
+font-size: 4em;
+text-align:center;
+font-family: arial;
+font-weight: bold;
+}
+
+#home-badge img {
+height:100px;
+text-align:left;
+}
+
+#away-badge img {
+height:100px;
+text-align:right;
+}
+
+#home-badge {
+width:100px;
+float:left;
+}
+
+#away-badge {
+width:100px;
+float:left;
+}
+
+#score-headline {
+width: 600px;
+margin:0 auto;
+padding: 20 0 10 0;
+}
+
+#match-details {
+clear:both;
+width: 600px;
+margin:0 auto;
+padding: 10 0 50 0;
+font-style:italic;
+line-height: 50px;
+}
+
+#attendance {
+width: 200px;
+float:left;
+text-align:center;
+}
+
+#venue {
+width: 200px;
+float:left;
+text-align:left;
+}
+
+#competition {
+width: 200px;
+float:left;
+text-align:right;
+}
+
+#competition img{
+height: 50px;
+}
+
+#report {
+clear:both;
+padding: 30 0 10 0;
+}
+
+#player-photo-left, #player-photo-right {
+text-align:center;
+font-style:italic;
+width:240px;
+}
+
+#player-photo-left-rovers, #player-photo-right-rovers {
+text-align:center;
+font-style:italic;
+width:340px;
+}
+
+#player-photo-left, #player-photo-left-rovers {
+float: left;
+padding: 10 30 10 10;
+}
+
+#player-photo-right, #player-photo-right-rovers {
+float: right;
+padding: 10 10 10 30;
+}
+
+#player-photo-left img, #player-photo-right img {
+height:135px;
+width:240px;
+border-radius: 10px;
+}
+
+#player-photo-left-rovers img, #player-photo-right-rovers img {
+height:240px;
+width:320px;
+border-radius: 10px;
+}
+
+#photo-left, #photo-right {
+text-align:center;
+font-style:italic;
+width:300px;
+}
+
+#photo-left {
+float: left;
+padding: 10 30 0 10;
+}
+
+#photo-right {
+float: right;
+padding: 10 10 0 30;
+}
+
+#photo-left img, #photo-right img {
+width:300px;
+border-radius: 10px;
+}
+
+#club-badge-left {
+float: left;
+padding: 50 50 50 50;
+}
+
+#club-badge-right {
+float: right;
+padding: 50 50 50 50;
+}
+
+#club-badge-left img, #club-badge-right img {
+height:100px;
+}
+
+#home-team {
+padding: 5 0 5 0;
+}
+
+#away-team {
+padding: 5 0 5 0;
+}
+
+#ground-photo-left {
+float: left;
+padding: 10 30 0 10;
+}
+
+#ground-photo-right {
+float: right;
+padding: 10 10 0 30;
+}
+
+#ground-photo-left img, #ground-photo-right img {
+width:300px;
+border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#viewing-blog-message {
+
+}
+
+
+#blog-category-title img{
+height: 50px;
+}
+
+#drop-down-menu {
+width:100%;
+text-align:right;
+}
+
+
+
+
+
+
+#blog-post {
+clear:both;
+width: 100%;
+background-color: white;
+padding: 30 30 30 30;
+border-radius: 30px;
+margin-bottom: 30px;
+border-style:solid;
+border-width:5px;
+border-color: #2CA0E8;
+}
+
+#blog-date-container {
+width: 150px;
+padding: 0 10 10 0;
+float: left;
+margin-top: 0;
+}
+
+#blog-date-container-top {
+margin-left: 20px;
+margin-right: 20px;
+background-color: #2CA0E8;
+border-radius: 10px;
+color: F2FAFA;
+padding: 0 0 10 0;
+}
+
+#blog-date {
+text-align: center;
+font-size: 50px;
+}
+
+#blog-month1 {
+text-align: center;
+font-size: 24px;
+}
+
+#blog-year {
+text-align: center;
+font-size: 16px;
+font-weight: bold;
+color: #2CA0E8;
+}
+
+#blog-time {
+text-align: center;
+font-size: 16px;
+}
+
+#blog-header {
+    }
+
+#blog-header h3 {
+font-size: 30px;
+margin-top: 0;
+}
+
+#blog-header h4 {
+margin-top:0;
+margin-bottom:0
+}
+
+#blog-header h5 {
+margin-top:10; 
+margin-bottom:18;
+text-align: right;
+font-size: 12px;
+}
+
+#blog-top {
+width: 100%;
+}
+
+#blog-content {
+clear:both;
+}
+
+#pagination-buttons {
+padding: 30 0 20 0;
+}
+
+#blog-category-footer img {
+height: 50px;
+float: left;
+padding: 0 30 0 0;
+}
+
+#blog-photo-1 {
+text-align:center;
+font-style:italic;
+margin-bottom: 20px;
+width: 66%;
+margin: 0px auto;
+}
+
+#blog-photo-1 img {
+width: 100%;
+border-radius: 25px;
+}
+
+#blog-photo-2 {
+text-align:center;
+font-style:italic;
+margin-bottom: 20px;
+
+}
+
+#blog-photo-2 img {
+border-radius: 20px;
+width: 48%;
+}
+
+#blog-photo-3 {
+text-align:center;
+font-style:italic;
+margin-bottom: 20px;
+}
+
+#blog-photo-3 img {
+width: 32%;
+border-radius: 15px;
+}

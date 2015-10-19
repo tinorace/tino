@@ -1,0 +1,2 @@
+<h3>About</h3>Tino Race is a Physics teacher living in Oxfordshire. His interests include football, brewing, gardening, computer networking and programming, and astronomy. <br/>
+You can get in contact with him by <a href="http://www.facebook.com/tino.race1" target="_blank">Facebook</a>, <a href="https://twitter.com/#!/tinorace" target="_blank">Twitter</a>, <a href="http://www.linkedin.com/profile/view?id=168940127" target="_blank">LinkedIn</a>, <a href="mailto:tino.race@gmail.com">email</a>, and Skype.

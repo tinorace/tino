@@ -1,0 +1,26 @@
+div#nav ul li a:hover {
+color: #000;
+}
+
+body, img#bar-top, div#content, div#blog-content, div#footer, div#socialbar, div#div3_example {
+color: #222222;
+}
+
+div#nav ul li a {
+color:#2CA0E8;
+}
+
+div#nav, div#nav ul li a {
+}
+
+body, div#left-top, div#div3_example, div#right-top, div#center-top, div#container-top, div#socialbar, div#footer, img#bar-top {
+background-color: #F2FAFA;
+}
+
+div#blog-content, div#pagination-buttons a {
+background-color: #FFFFFF;
+}
+
+div#pagination-buttons a {
+border-style:solid;
+border-color: #2CA0E8;
