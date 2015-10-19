@@ -1,4 +1,4 @@
-# tino
+# Explanation of code
 This demonstrates my coding abilities including html, php, css, xml and javascript.
 A live version of this site can be viewed at http://tinorace.no-ip.com/tinorace
 Note that content on this site has not been updated since 2012!
